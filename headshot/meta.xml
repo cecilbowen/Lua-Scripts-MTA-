@@ -1,0 +1,6 @@
+<meta>
+	<info author="Cecil G. Bowen" type="script" version="1.0" description="Cecil's Custom Headshot Script" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<file src="headshot.mp3" />
+</meta>

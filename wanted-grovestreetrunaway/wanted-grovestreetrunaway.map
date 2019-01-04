@@ -1,0 +1,29 @@
+<map edf:definitions="editor_main,wanted">
+    <spawn_police id="spawn_police (1)" interior="0" interior2="0" posX="2490.599609375" posY="-1668.2998046875" posZ="12.39999961853" rotX="0" rotY="0" rotZ="0"></spawn_police>
+    <portal id="sweetdoor" interior2="0" Name="sweet" interior="0" link="A" posX="2522.7998046875" posY="-1679.3994140625" posZ="14.5" rotX="0" rotY="0" rotZ="0" target="0" toInterior="1" trueInterior="0"></portal>
+    <portal id="sweethouse" interior2="1" Name="sweet" interior="0" link="B" posX="2525" posY="-1679.3994140625" posZ="1014.5" rotX="0" rotY="0" rotZ="0" toInterior="1"></portal>
+    <spawn_wanted id="spawn_wanted (1)" interior="0" interior2="1" posX="2526.2998046875" posY="-1674.7998046875" posZ="1014.5" rotX="0" rotY="0" rotZ="0"></spawn_wanted>
+    <object id="object (towerlan2) (1)" doublesided="false" model="4585" interior="0" dimension="0" posX="2469.6999511719" posY="-1602.5999755859" posZ="25.39999961853" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (towerlan2) (2)" doublesided="false" model="4585" interior="0" dimension="0" posX="2469.6999511719" posY="-1748.4000244141" posZ="25.39999961853" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (towerlan2) (3)" doublesided="false" model="4585" interior="0" dimension="0" posX="2397" posY="-1680.9000244141" posZ="25.39999961853" rotX="0" rotY="90" rotZ="90"></object>
+    <object id="object (towerlan2) (4)" doublesided="false" model="4585" interior="0" dimension="0" posX="2563.6000976563" posY="-1680.9000244141" posZ="25.39999961853" rotX="0" rotY="90" rotZ="90"></object>
+    <pickup id="pickup (Knife) (1)" type="4" interior="0" amount="100" respawn="15000" dimension="0" posX="2514" posY="-1658.5" posZ="14.10000038147" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Spraycan) (1)" type="41" interior="0" amount="100" respawn="15000" dimension="0" posX="2536.1999511719" posY="-1663.6999511719" posZ="15.199999809265" rotX="0" rotY="0" rotZ="0"></pickup>
+    <portal id="ryderdoor" interior2="0" Name="ryder" interior="0" link="A" posX="2459.5" posY="-1691" posZ="12.60000038147" rotX="0" rotY="0" rotZ="0"></portal>
+    <portal id="ryderhouse" interior2="2" Name="ryder" interior="0" link="B" posX="2467.5" posY="-1698.2998046875" posZ="1012.299987793" rotX="0" rotY="0" rotZ="0"></portal>
+    <pickup id="pickup (Fire Extinguisher) (1)" type="42" interior="2" amount="500" respawn="30000" dimension="0" posX="2448.19921875" posY="-1705.19921875" posZ="1013.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sawed-off) (1)" type="26" interior="2" amount="15" respawn="45000" dimension="0" posX="2451.19921875" posY="-1686.2998046875" posZ="1012.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Silenced) (1)" type="23" interior="1" amount="50" respawn="30000" dimension="0" posX="2538" posY="-1679.5" posZ="1015.0999755859" rotX="0" rotY="0" rotZ="0"></pickup>
+    <portal id="cjdoor" interior2="0" Name="cj" interior="0" link="A" posX="2495.3994140625" posY="-1690.7998046875" posZ="13.800000190735" rotX="0" rotY="0" rotZ="0"></portal>
+    <pickup id="pickup (Rifle) (1)" type="33" interior="0" amount="100" respawn="30000" dimension="0" posX="2487.7998046875" posY="-1699.099609375" posZ="14.800000190735" rotX="0" rotY="0" rotZ="0"></pickup>
+    <portal id="cjhouse" interior2="3" Name="cj" interior="0" link="B" posX="2496" posY="-1693.099609375" posZ="1013.799987793" rotX="0" rotY="0" rotZ="0"></portal>
+    <pickup id="pickup (health) (1)" type="health" interior="3" amount="100" respawn="60000" dimension="0" posX="2499.599609375" posY="-1711" posZ="1014.700012207" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Uzi) (1)" type="28" interior="3" amount="60" respawn="60000" dimension="0" posX="2494.69921875" posY="-1702.2998046875" posZ="1019" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Flower) (1)" type="14" interior="0" amount="100" respawn="30000" dimension="0" posX="2494.1000976563" posY="-1668.0999755859" posZ="13.300000190735" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Flower) (2)" type="14" interior="0" amount="100" respawn="30000" dimension="0" posX="2486.8000488281" posY="-1668.0999755859" posZ="13.300000190735" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Flower) (3)" type="14" interior="0" amount="100" respawn="30000" dimension="0" posX="2490.5" posY="-1672.3000488281" posZ="13.300000190735" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Flower) (4)" type="14" interior="0" amount="100" respawn="30000" dimension="0" posX="2490.5" posY="-1664.3000488281" posZ="13.300000190735" rotX="0" rotY="0" rotZ="0"></pickup>
+    <vehicle id="vehicle (Police Ranger) (1)" paintjob="3" model="599" plate="7MGFVVX" interior="0" dimension="0" posX="2478.1000976563" posY="-1667" posZ="13.699999809265" rotX="0" rotY="0" rotZ="336"></vehicle>
+    <vehicle id="vehicle (Police Ranger) (2)" paintjob="3" model="599" plate="9ITUUCU" interior="0" dimension="0" posX="2475.6000976563" posY="-1662.3000488281" posZ="13.699999809265" rotX="0" rotY="0" rotZ="335.99487304688"></vehicle>
+    <vehicle id="vehicle (Police Ranger) (3)" paintjob="3" model="599" plate="TKBPCA6" interior="0" dimension="0" posX="2459.6000976563" posY="-1653.5" posZ="13.699999809265" rotX="0" rotY="0" rotZ="267.99487304688"></vehicle>
+</map>

@@ -1,0 +1,20 @@
+<help popup="yes">
+Wanted Player:
+	-Your goal is to survive as long as possible.
+	-The longer you survive, the more money you'll receive, since you gain a small amount of cash every second of survival.
+	-You start out with a wanted level of 1 and can gain up to a wanted level of 6.
+	-With each wanted level you gain, your cash bonus increases.
+	-You can be identified by other players by an arrow above you.
+
+Police Dept:
+	-Your goal is to kill the Wanted Player.
+	-Not only do you gain a cash bonus when you kill the Wanted Player, but you also become the Wanted Player.
+	-Killing of a fellow Police Officer is considered an injustice and results in a cash deduction of the killer.
+
+The Shop:
+	-Open/Close the Shop with F1.
+	-Go here to spend the money you've earned to buy weapons, armor, or vehicles.
+
+Overall Objective:
+	-The player with the most money is in the lead and ranked 1st Place.
+</help>

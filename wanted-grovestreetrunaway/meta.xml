@@ -1,0 +1,17 @@
+<meta>
+    <info gamemodes="wanted" type="map" name="Runaway on Grove Street" author="Cecil G. Bowen" version="1.0" description="New &apos;wanted&apos; mechanics implemented."></info>
+    <map src="wanted-grovestreetrunaway.map" dimension="0"></map>
+    <settings>
+        <setting name="#maxplayers" value="[ 100 ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#wanted" value='[ &quot;25:300,2:1&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 2 ]"></setting>
+        <setting name="#time" value="6:0"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#interior" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#weather" value="[ 12 ]"></setting>
+        <setting name="#police" value='[ &quot;24:300,17:1&quot; ]'></setting>
+    </settings>
+</meta>

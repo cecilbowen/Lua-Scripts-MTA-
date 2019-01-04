@@ -1,0 +1,13 @@
+<meta>
+	<info author="Cecil G. Bowen" name="Wanted"  version="1.5" type="gamemode" edf:definition="edf/wanted.edf" />
+	<config src="help.xml" type="client" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<include resource="helpmanager" />
+	<include resource="scoreboard" />
+	<include resource="mapmanager" />
+	<file src="patrick.mp3" />
+	<file src="edf/wanted.png" />
+	<file src="edf/police.png" />
+	<file src="edf/portal.png" />
+</meta>

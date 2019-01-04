@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main,wanted">
+    <portal id="portal (1)" interior2="0" Name="banana" interior="0" link="A" posX="361.20001220703" posY="-108.30000305176" posZ="967.20001220703" rotX="0" rotY="0" rotZ="0"></portal>
+    <portal id="portal (2)" interior2="5" Name="rest" interior="0" link="A" posX="442.89999389648" posY="-107.19999694824" posZ="998.70001220703" rotX="0" rotY="0" rotZ="352"></portal>
+    <spawn_police id="spawn_police (1)" interior="0" interior2="5" posX="459.79998779297" posY="-110.40000152588" posZ="998.59997558594" rotX="0" rotY="0" rotZ="0"></spawn_police>
+    <portal id="portal (3)" interior2="5" Name="rest" interior="0" link="B" posX="372.5" posY="-132.80000305176" posZ="1000.5" rotX="0" rotY="0" rotZ="0"></portal>
+    <portal id="portal (4)" interior2="5" Name="cluckin" interior="0" link="B" posX="369.20001220703" posY="-115.40000152588" posZ="1000.5" rotX="0" rotY="0" rotZ="0"></portal>
+    <portal id="portal (5)" interior2="9" Name="cluckin" interior="0" link="A" posX="364.89999389648" posY="-11" posZ="1000.9000244141" rotX="0" rotY="0" rotZ="0"></portal>
+    <portal id="portal (6)" interior2="9" Name="burger" interior="0" link="A" posX="379.60000610352" posY="-8.6000003814697" posZ="1000.9000244141" rotX="0" rotY="0" rotZ="0"></portal>
+    <portal id="portal (7)" interior2="10" Name="burger" interior="0" link="B" posX="363.5" posY="-74.599998474121" posZ="1000.5" rotX="0" rotY="0" rotZ="0"></portal>
+    <spawn_wanted id="spawn_wanted (1)" interior="0" interior2="10" posX="379.39999389648" posY="-59.900001525879" posZ="1000.5" rotX="0" rotY="0" rotZ="0"></spawn_wanted>
+    <pickup id="pickup (Satchel) (1)" type="39" interior="10" amount="3" respawn="30000" dimension="0" posX="367" posY="-58.400001525879" posZ="1001.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Flamethrower) (1)" type="37" interior="9" amount="100" respawn="30000" dimension="0" posX="369" posY="-7.9000000953674" posZ="1001.9000244141" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Teargas) (1)" type="17" interior="5" amount="3" respawn="30000" dimension="0" posX="456.39999389648" posY="-104.90000152588" posZ="999.59997558594" rotX="0" rotY="0" rotZ="0"></pickup>
+</map>

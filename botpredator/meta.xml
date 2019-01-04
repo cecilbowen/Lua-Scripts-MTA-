@@ -1,0 +1,5 @@
+<meta>
+	<info author="Cecil G. Bowen" version="1.1" type="script" name="Bot Predator" />
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+</meta>

@@ -1,0 +1,36 @@
+<objects>
+    <object name="Big Ship Port" id="10833" />
+	<object name="Hide Carboard Box" id="3796" />
+	<object name="Rail Tunnel 1" id="11465" />
+	<object name="Rail Tunnel 2" id="6222" />
+	<object name="Rail Tunnel 3" id="13491" />
+	<object name="Rail Tunnel 4" id="13492" />
+	<object name="Office Building" id="8571" />
+	<object name="Japanese Dome" id="8399" />
+	<object name="Liquor Store" id="17761" />
+	<object name="Big White Plane" id="14553" />
+	<object name="Xoomer Sign" id="7390" />
+	<object name="Small Tree" id="681" />
+	<object name="Car Park Tower" id="5138" />
+	<object name="Big Parking Lot" id="8001" />
+	<object name="Huge Sub-Parking Lot" id="10783" />
+	<object name="Straight 2-Lane 1" id="6952" />
+	<object name="Straight 2-Lane 2" id="6953" />
+	<object name="Toy Castle" id="8706" />
+	<object name="Bomb Barrel" id="1225" />
+	<object name="Caution Barrel" id="1218" />
+	<object name="Traffic Barrel" id="1237" />
+	<object name="Traffic Cone" id="1238" />
+	<object name="Fire Hydrant" id="1211" />
+	<object name="Gas Pump" id="1244" />
+	<object name="Mine" id="2918" />
+	<object name="Ball" id="1598" />
+	<object name="BasketBall" id="2114" />
+	<object name="Boulder (Small)" id="1304" />
+	<object name="Boulder (Medium)" id="1303" />
+	<object name="Boulder (Large)" id="1305" />
+	<object name="Smoke Machine" id="2780" />
+	<object name="Star Tower" id="9900" />
+	<object name="Sky Scraper 1" id="4563" />
+	
+</objects>

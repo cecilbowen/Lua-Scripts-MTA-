@@ -1,0 +1,5 @@
+<meta>
+	<info author="Cecil G. Bowen" version="1.0" type="script" name="Bot Vehicle A.I. with Paths" />
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client" />
+</meta>

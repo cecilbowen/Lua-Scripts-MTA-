@@ -1,0 +1,10 @@
+<meta>
+	<info author="Cecil G. Bowen" name="Prop Hunt"  version="1.0" type="gamemode" edf:definition="edf/prophunt.edf" />
+	<config src="help.xml" type="client" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<include resource="helpmanager" />
+	<include resource="scoreboard" />
+	<include resource="mapmanager" />
+	<file src="noShadow.fx" />
+</meta>

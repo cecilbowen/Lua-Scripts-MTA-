@@ -1,0 +1,26 @@
+<def name="Wanted">
+	<setting name="police" friendlyname="Police Weapons" type="string" description="Starting weapons for Police players. Format: &quot;weaponID:ammo,weaponID:ammo,weaponID:ammo...&quot;, e.g. &quot;22:100,31:40,26:20&quot;" default="24:300" required="true"/>
+	<setting name="wanted" friendlyname="Wanted Weapons" type="string" description="Starting weapons for the Wanted player. Format: &quot;weaponID:ammo,weaponID:ammo,weaponID:ammo...&quot;, e.g. &quot;22:100,31:40,26:20&quot;" default="25:300" required="true"/>
+	<setting name="interior" friendlyname="Global Interior" type="integer" description="The interior to set all elements to.  This is only required when using an interior other than 0." default="0" required="false"/>
+
+    <element name="spawn_police" friendlyname="Police Spawn" icon="edf/police.png">
+        <data name="position" type="coord3d" default="0,0,0" />
+		<data name="interior" type="integer" default="0" />
+		<data name="interior2" type="integer" default="0" />
+        <marker size="1.5" type="cylinder" color="#00FF00" interior="!interior!" />
+    </element>
+    <element name="spawn_wanted" friendlyname="Wanted Spawn" icon="edf/wanted.png">
+        <data name="position" type="coord3d" default="0,0,0" />
+		<data name="interior" type="integer" default="0" />
+		<data name="interior2" type="integer" default="0" />
+        <marker size="1.5" type="cylinder" color="#FF0000" interior="!interior!" />
+    </element>
+    <element name="portal" friendlyname="Portal (Interior)" icon="edf/portal.png">
+        <data name="position" type="coord3d" default="0,0,0" />
+		<data name="Name" type="string" default="banana" />
+		<data name="link" type="selection:A,B" default="A" />
+		<data name="interior" type="integer" default="0" />
+		<data name="interior2" type="integer" default="0" />
+        <marker editorOnly="false" size="1.5" type="cylinder" color="#0000FF" interior="!interior!" />
+    </element>
+</def>

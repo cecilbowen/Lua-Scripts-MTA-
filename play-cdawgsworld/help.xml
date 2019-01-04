@@ -1,0 +1,27 @@
+<help popup="yes">
+General Commands:
+ /mount - mount a rocket to a vehicle
+ /unmount - remove mounted rocked from vehicle
+ press 'x' - glue/unglue to vehicle
+ 
+Bot Features:
+ rightMouse - create bot with current weapon (if any) at cursor
+ /botMode [mode] - set your bot mode
+ /killMyBots - erases all your bots
+ 
+Speed Mode (When Activated):
+ rightAlt - nitro boost
+ leftAlt - flip
+ rightShift - super stop
+ press 'b' - hop
+ , - nitro boost (left)
+ . - nitro boost (right)
+ 
+Admins Only:
+ /armyGang [player] - give player type 'gang' bots
+ /armySwat [player] - give player type 'swat' bots
+ /armyHeavy [player] - give player type 'heavy' bots
+ /wipeout - erase all bots in server
+ /junk - erase all objects in server
+ /poweroutage - erase all vehicles in server
+</help>
